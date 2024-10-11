@@ -4,11 +4,7 @@ This project showcases a **Modern Chair** design with elegant animations. It’s
 
 ## Demo
 
-You can view the live demo of this project here:
-
-[Live Demo](https://modern-chair-page-two.vercel.app/)
-
-(Replace the link with your actual demo link if available)
+You can view the live demo of this project here:[Live Demo](https://modern-chair-page-two.vercel.app/)
 
 ## Features
 
