@@ -6,14 +6,14 @@ This project showcases a **Modern Chair** design with elegant animations. It’s
 
 You can view the live demo of this project here:
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://modern-chair-page-two.vercel.app/)
 
 (Replace the link with your actual demo link if available)
 
 ## Features
 
 - Stylish and minimalistic modern chair design.
-- Smooth animations for hover and scroll interactions.
+- Smooth animations on changing the color of Chair.
 - Fully responsive layout for desktop and mobile.
 - Easy to customize and modify.
 
