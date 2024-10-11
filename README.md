@@ -24,5 +24,5 @@ You can view the live demo of this project here:
 - **Animations**: Custom CSS animations for an engaging user experience.
 
 ## Screenshots
+![Screenshot of Card UI](Images/Screenshot1.png)
 
-_Add screenshots of your Modern Chair page here (optional)._
